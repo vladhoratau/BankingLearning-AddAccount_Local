@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Mobile Banking</string>
+    <string name="current_account_number">Current account : %s</string>
+    <string name="current_account_balance">Current balance: %s RON</string>
+    <string name="selected_position">%i</string>
+</resources>
